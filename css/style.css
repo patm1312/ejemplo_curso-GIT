@@ -9,16 +9,8 @@ body{
     text-align: center;
     border-radius: 20%
 }
-<<<<<<< HEAD
 .container_dos{
     margin: 40px;
     width: 80%;
     border: 2px solid blue;
-=======
-.cabecera{
-    width: 100%;
-    height: auto;
-    background-color: rgb(16, 159, 224);
-    border-radius: 50%
->>>>>>> cabecera
 }
