@@ -2,7 +2,8 @@ body{
     background-color: rgb(159, 187, 122);
 }
 .container{
-    
+    background-color: rgb(87, 35, 35);
+    color: white;
     width: 80%;
     border: 2px solid blue;
     text-align: center;
