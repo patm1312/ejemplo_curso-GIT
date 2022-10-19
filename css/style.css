@@ -23,4 +23,5 @@ body{
     color: white;
     text-align: center;;
     background-color: rgb(107, 124, 182);
+    border: 1px solid white;
 }
