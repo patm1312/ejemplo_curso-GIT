@@ -9,19 +9,8 @@ body{
     text-align: center;
     border-radius: 20%
 }
-.cabecera{
-    width: 100%;
-    height: auto;
-    background-color: rgb(16, 159, 224);
-    border-radius: 50%
-}
-.prueba{
-    margin: 50px;
-    padding: 40px;
-    width: 50%;
-    font-size: 30px;
-    color: white;
-    text-align: center;;
-    background-color: rgb(107, 124, 182);
-    border: 1px solid white;
+.container_dos{
+    margin: 40px;
+    width: 80%;
+    border: 2px solid blue;
 }
